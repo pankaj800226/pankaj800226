@@ -1,19 +1,91 @@
 ![MasterHead](https://jayamwebsolutions.com/img/website.gif)
-<h1 align="center">Hi 👋, I'm pankaj kumar</h1>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about ****
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+<h3 align="center">🚀 Full Stack Engineer | JavaScript Enthusiast | Problem Solver</h3>
 
-- 📫 How to reach me **pk0158548@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- ⚡ Fun fact **I am funny**👨‍💻👨‍💻
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 About Me  
+
+- 🔭 I’m a **Full Stack Engineer** from **India 🇮🇳**
+- 🌱 Currently learning **Advanced MERN Stack & System Design**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MongoDB**
+- 🛠️ I love building **real-world projects & scalable web apps**
+- 📫 Reach me at **pk0158548@gmail.com**
+- ⚡ Fun fact: **I mix humor with clean code 😄**
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="left">
-<a href="https://instagram.com/pankaj_singh_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pankaj_singh_op" height="30" width="40" /></a>
+<a href="https://instagram.com/pankaj_singh_op" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="mailto:pk0158548@gmail.com" target="blank">
+<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left"> Languages and Tools I USE:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 Tech Stack  
+
+### 🚀 Frontend  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+</p>
+
+### 🧠 Backend  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
+
+### 🗄️ Database  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</p>
+
+### ⚙️ Tools & Others  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+- 🔥 **MERN Todo App**
+- 🌐 **Portfolio Website**
+- 📦 **REST API with Node & Express**
+- 🎨 **Modern UI Components with React & Sass**
+
+---
+
+### ✨ “Code. Learn. Build. Repeat.”  
