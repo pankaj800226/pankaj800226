@@ -14,7 +14,7 @@ Building modern, scalable & user-friendly web applications
 <!-- CODING GIF -->
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-4f2e7c9d-2f6a-4f69-9d6f-9f89c6e1b2c3.gif"/>
 
-## 🧠 About Me
+## 🧠 Hye There
 
 - 💻 Full Stack Engineer from India 🇮🇳  
 - ⚡ MERN Stack (MongoDB, Express, React, Node)  
@@ -27,14 +27,17 @@ Building modern, scalable & user-friendly web applications
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/pankaj_singh_op">
+<a href="https://www.instagram.com/pncoder/">
 <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <a href="mailto:pk0158548@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pankaj800226">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/pankaj-kumar-838902253/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
@@ -73,12 +76,20 @@ Building modern, scalable & user-friendly web applications
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 My Work
 
-✨ **MERN Todo App** – Auth, CRUD, Responsive UI  
-✨ **Portfolio Website** – Modern UI & Animations  
-✨ **REST API** – Node.js + MongoDB  
-✨ **Admin Dashboard** – Role-based access  
+✨ **MERN + Machine Learning Project**  
+End-to-end full-stack application with Authentication, CRUD operations & fully responsive UI  
+
+🚀 **Production Deployment**  
+Deployed scalable applications using **Render (Backend)** & **Netlify (Frontend)**  
+
+🔗 **RESTful API Development**  
+Designed and built secure REST APIs using **Node.js, Express & MongoDB**  
+
+🧩 **Chrome Extension Development**  
+Built a functional Chrome Extension to solve real-world productivity problems  
+
 
 ---
 
