@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Pankaj%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,50:00d2ff,100:3a7bd5&height=220&section=header&text=Pankaj%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
 🚀 Full Stack Engineer | MERN Stack | AI Integration
