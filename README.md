@@ -69,6 +69,9 @@ Building modern, scalable & user-friendly web applications
 ---
 
 ## 🏆 Achievements
+In 2026 I Lern Full auth system
+Conpleted my saas product and deploy nexthinks.in
+I am currently build second saas product AI-Tracher assistence
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1"/>
